@@ -1,5 +1,3 @@
-#A, K, Q, J, T, 9, 8, 7, 6, 5, 4, 3, or 2
-
 from collections import defaultdict
 import math
 
@@ -114,4 +112,5 @@ def calc(raw_hand):
 
     '''
     250680646
+    251003917
     '''
